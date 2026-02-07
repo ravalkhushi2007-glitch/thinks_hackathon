@@ -1,0 +1,13 @@
+company,role,package,skills,year,selected
+Google,Software Engineer,30,Python;Data Structures;Algorithms;System Design,2023,12
+Amazon,SDE I,25,Java;AWS;Distributed Systems,2023,15
+Microsoft,Software Engineer,28,C++;Azure;Algorithms,2023,10
+TCS,System Engineer,7,Java;SQL;Communication,2023,50
+Infosys,System Engineer,6,Python;React;SQL,2023,45
+Accenture,App Developer,6.5,Java;Spring Boot;SQL,2023,40
+Zomato,Backend Dev,18,Node.js;MongoDB;AWS,2023,5
+Swiggy,Frontend Dev,16,React;Redux;Javascript,2023,6
+Paytm,Data Analyst,12,Python;SQL;Tableau,2023,8
+Uber,SDE I,32,Go;Distributed Systems;Algorithms,2023,4
+Google,Data Scientist,28,Python;Machine Learning;TensorFlow,2024,3
+Microsoft,Product Manager,24,Management;Agile;Communication,2024,5
